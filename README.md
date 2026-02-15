@@ -54,7 +54,7 @@ Configuração para que a IA trate a documentação como "Lei Seca" (verdade abs
 
 Este projeto foi desenvolvido como parte da minha jornada de especialização em IA e Machine Learning.
 
-*   💼 **LinkedIn**: [Seu Link Aqui](https://www.linkedin.com/)
-*   🎓 **DIO**: [Seu Perfil na DIO Aqui](https://web.dio.me/)
+*   💼 **LinkedIn**: [Clique aqui](https://www.linkedin.com/in/wesleiy)
+*   🎓 **DIO**: [Clique aqui](https://web.dio.me/users/wesleycalves1)
 
 > "O segredo da aprendizagem acelerada não é apenas consumir informação, mas sim a capacidade de estruturar o conhecimento para que ele se torne útil instantaneamente."
